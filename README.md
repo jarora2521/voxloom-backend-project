@@ -89,7 +89,7 @@ CLOUD_STT_KEY=
 
 ### 1. Clone project
 ```bash
-git clone https://github.com/jarora2521/voxloom-backend.git
+git clone https://github.com/jarora2521/voxloom-backend-project.git
 cd voxloom-backend
 ```
 
