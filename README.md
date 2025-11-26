@@ -60,6 +60,7 @@ voxloom-backend/
 │   ├── .gitkeep                # Used if file-based audio storage enabled
 │   └── .gitignore
 │
+├── Dockerfile
 ├── .env.example
 ├── requirements.txt
 ├── README.md
