@@ -1,0 +1,10 @@
+fastapi[all]==0.95.2
+uvicorn[standard]==0.22.0
+sqlmodel==0.0.8
+asyncpg==0.27.0
+httpx==0.24.0
+python-dotenv==1.0.0
+ruff==0.12.1
+pyright==1.1.378
+alembic==1.12.0
+pytest==7.4.2

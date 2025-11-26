@@ -1,0 +1,70 @@
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Bytecode cache
+__pypackages__/
+
+# ---------------------------
+# Environment files
+# ---------------------------
+.env
+.env.local
+.env.*.local
+
+# Only commit .env.example
+# (already included in repo)
+
+# ---------------------------
+# Databases
+# ---------------------------
+*.db
+*.db-journal
+voxloom.db
+
+# ---------------------------
+# Logs & temp files
+# ---------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ---------------------------
+# Editor / IDE
+# ---------------------------
+.vscode/
+.idea/
+.history/
+
+# ---------------------------
+# OS files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Media files (runtime)
+# ---------------------------
+media/
+uploads/
+
+# Keep empty directories with .gitkeep
+# but ignore actual file uploads.
+
+# ---------------------------
+# Cache / build
+# ---------------------------
+pip-log.txt
+pip-delete-this-directory.txt
+
